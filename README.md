@@ -3,4 +3,4 @@ WaffleCopter
 
 A Java Helicopter Game
 
-Set environemnt variables to the path with the images, then play!
+Set environment variables to the path with the images, then play!
